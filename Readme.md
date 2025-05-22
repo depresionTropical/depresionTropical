@@ -5,17 +5,23 @@
 
 <p align="center">
   <em>
-    I'm <b>Victor Hugo Martínez-González</b>, a final year <b>Computer System Engineering </b> undergraduate from <a href="https://www.merida.tecnm.mx"><b>Merida Insitute of Technology</b></a>, Merida, Yucatan.
-    An aspiring <b>Artificial Intelligence Enthusiast,</b>&nbsp; <b>Data Science</b>&nbsp; and <b>Backend Developer.</b>
+    Hi! I'm Victor Hugo Martínez — passionate about Artificial Intelligence, Data Science, and Natural Language Processing.
+  </em>
+
 </p>
 
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I'm a Science Enthusiast since childhood.
-- 🔭 I’m currently Machine Learning Leader of the [Student Chapter AAAIMX](https://www.aaaimx.org/) <img src="https://www.aaaimx.org/img/sprites/aaaimx-transparent.png" width="30">
-- 👯 I’m looking to collaborate with AI community.
-- 💡 Contributing to AI reaserch.
-- ⚡ Fun fact: I love Sports, especially cycling.
+- 🎓 Always learning.
+- 🧞 Been a science nerd since forever.
+- 🔍 Previously led ML initiatives at AAAIMX Student Chapter.
+- 🤝 Now looking to connect & collaborate with the wider AI community.
+- 🧠 Currently contributing to AI research projects and sharpening my backend skills.
+- 🚴‍♂️ Fun fact: I’m really into sports, especially cycling — nothing beats a good ride to clear the mind.
+
+[📄 Wanna know more? Check out my CV here](https://hugocv.onrender.com)
+
+Let’s build something cool together! 
 <br>
 
 ---
